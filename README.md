@@ -42,6 +42,7 @@ The analysis will involve the following steps:
 - sklearn and scipy.stats for statistical models
 - OS module for interacting with the operating system
 - Tableau for storytelling with data
+## Tableau Presentasion's Link: https://public.tableau.com/app/profile/junior.da.costa/viz/OlistE-CommerceDataAnalysis/Conclusion?publish=yes
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
